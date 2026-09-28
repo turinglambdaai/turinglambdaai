@@ -9,7 +9,7 @@ Automotive embedded engineer — AUTOSAR, CAN/UDS, gPTP (IEEE 802.1AS). I also b
 - **[autarx](https://github.com/turinglambdaai/autarx)** — AUTOSAR integration workbench for OEM deliveries: semantic diff, ECU impact analysis, reference tracing; MCP interface for AI agents
 - **[gptp-studio](https://github.com/turinglambdaai/gptp-studio)** — Linux-native gPTP (IEEE 802.1AS) debugging studio with a doctor-first workflow
 - **[racket-programming](https://github.com/turinglambdaai/racket-programming)** — online book on Racket: core syntax, macros, concurrency, contracts, and creating languages with #lang
-- **[glaze](https://github.com/turinglambdaai/glaze)** — Tauri-like framework: desktop apps with a Racket backend and web frontend
+- **[rivet](https://github.com/turinglambdaai/rivet)** — Racket-native desktop apps: embed the Racket CS runtime in first-party SwiftUI / WinUI 3 shells, bridged over RPC / Event / State
 
 Product pages: [jrtx.site](https://jrtx.site) · [All repositories](https://github.com/turinglambdaai?tab=repositories)
 
