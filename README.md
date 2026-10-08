@@ -5,8 +5,9 @@ Automotive embedded engineer — AUTOSAR, CAN/UDS, gPTP (IEEE 802.1AS). I also b
 ### Selected projects
 
 - **[taskly](https://github.com/turinglambdaai/taskly)** — cross-platform task manager; native SwiftUI / WinUI 3 / GTK4, one behavioral contract, v1.0.0
-- **[benchpilot](https://github.com/turinglambdaai/benchpilot)** — ECU bench runtime for coding agents: UDS diagnostics and flashing over ISO-TP/CAN and DoIP, with a built-in simulated ECU
+- **[flashpilot](https://github.com/turinglambdaai/flashpilot)** — AI-native ECU flashing: declarative flash plans, UDS over ISO-TP/CAN and DoIP, fingerprint gate and failure evidence — the focused successor to BenchPilot
 - **[autarx](https://github.com/turinglambdaai/autarx)** — AUTOSAR integration workbench for OEM deliveries: semantic diff, ECU impact analysis, reference tracing; MCP interface for AI agents
+- **[podlens](https://github.com/turinglambdaai/podlens)** — cross-platform podcast player that transcribes, translates and summarizes English episodes with your own LLM key
 - **[gptp-studio](https://github.com/turinglambdaai/gptp-studio)** — Linux-native gPTP (IEEE 802.1AS) debugging studio with a doctor-first workflow
 - **[racket-programming](https://github.com/turinglambdaai/racket-programming)** — online book on Racket: core syntax, macros, concurrency, contracts, and creating languages with #lang
 - **[rivet](https://github.com/turinglambdaai/rivet)** — Racket-native desktop apps: embed the Racket CS runtime in first-party SwiftUI / WinUI 3 shells, bridged over RPC / Event / State
