@@ -1,6 +1,6 @@
 **English** · [中文](#中文)
 
-Automotive embedded engineer — AUTOSAR, CAN/UDS, gPTP (IEEE 802.1AS). I also build first-party native desktop apps in Racket, including Rivet, a framework for building them on macOS, Windows, and Linux.
+Automotive embedded engineer — AUTOSAR, CAN/UDS, gPTP (IEEE 802.1AS). I also build first-party native desktop apps in Racket, including Rivet, a framework for building them on macOS, Windows, and Linux. Most of what I ship is open source.
 
 ### Selected projects
 
@@ -16,6 +16,6 @@ Product pages: [jrtx.site](https://jrtx.site) · [All repositories](https://gith
 
 ## 中文
 
-汽车嵌入式工程师，方向 AUTOSAR、CAN/UDS、gPTP 时间同步；业余用 Racket 写 macOS/Windows/Linux 第一方原生桌面应用。
+汽车嵌入式工程师，方向 AUTOSAR、CAN/UDS、gPTP 时间同步；业余用 Racket 写 macOS/Windows/Linux 第一方原生桌面应用。大部分项目开源。
 
 如果你在找中文的汽车电子 / 嵌入式 / AI 工作流内容，欢迎关注公众号 **TuringLambdaAI**。
